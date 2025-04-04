@@ -23,7 +23,7 @@ Built with:
 ---
 
 ## 📸 Screenshot
-[IMG_6047.pdf](https://github.com/user-attachments/files/19610004/IMG_6047.pdf)
+![Screenshot](screenshot.pdf)
 
 
 ---
